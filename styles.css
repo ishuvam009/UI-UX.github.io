@@ -1,0 +1,46 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+}
+
+#top{
+    height: 60%;
+    width: 100%;
+    background-image: url(img/1img1.jpg);
+}
+
+#bottom{
+    display: flex;
+    height: 40%;
+    width: 100%;
+    background-color: yellowgreen;
+}
+
+#bone{
+    height: 100%;
+    width: 25%;
+    background-color: blue;
+}
+
+#btwo{
+    height: 100%;
+    width: 25%;
+    background-color: grey;
+}
+
+#bthree{
+    height: 100%;
+    width: 25%;
+    background-color: aqua;
+}
+
+#bfour{
+    height: 100%;
+    width: 25%;
+    background-color:  red;
+}
